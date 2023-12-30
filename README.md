@@ -17,4 +17,4 @@ Nous effectuons également une analyse par Lasso pour vérifier que toutes les v
 ### 5 – Conclusion 
 
 ## Fonctionnement 
-Le notebook principal est le main.ipynb qui permet de visualiser les résultats des autres notebooks à l’aide de la commande %run.
+Le notebook principal est le main.ipynb situé dans le dossier rendu_final qui permet de visualiser les résultats des autres notebooks à l’aide de la commande %run.
